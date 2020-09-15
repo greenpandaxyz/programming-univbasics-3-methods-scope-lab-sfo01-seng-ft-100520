@@ -13,3 +13,5 @@ def link
 end
 def all_phrases
 end
+all_phrases(phrase)
+all_phrases(status)
